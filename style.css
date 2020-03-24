@@ -1,4 +1,7 @@
 h1{
    foat
-
+p {
+ font-weight: bold;
+ color:red;
+}
 }
